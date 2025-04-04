@@ -188,7 +188,7 @@
     width: 30%;
 }
 .very-tasty-container{
-    background-image: url(/images/images/tasty.png);
+    background-image: url(./images/images/tasty.png);
     text-align: center;
     height: 450px;
     align-content: center;
@@ -283,6 +283,3 @@
     background-color: rgb(184, 184, 184);
     padding: 10px;
 }
-/* .tatsy{
-    background-image: url(/images/images/tasty.png);
-} */
